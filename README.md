@@ -12,5 +12,5 @@
 ### Step 2: Manitoba municipalities GIS Data
 
 * Incorporate Geospatial data for each municipality from Manitoba
-* - Total Municipalities have shape files available for Manitoba(MB) 
+* 183 records, Total Municipalities have shape files available for Manitoba(MB) 
 * Source: [Manitoba Municipalities Shapefiles](https://geoportal.gov.mb.ca/datasets/8b64285c3bf6445a8d0d8ea4a1c43849/explore?location=53.584348%2C-97.779011%2C6.81)
