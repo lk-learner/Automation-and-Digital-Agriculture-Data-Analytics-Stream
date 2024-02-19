@@ -6,7 +6,7 @@
 * 11 Crop yields included for crop columns = ['Argentine Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Winter Wheat', 'Field Peas', 'Alfalfa', 'Faba Beans', 'Flax']
 * - Total Municipalities for  Manitoba (MB)
 * 2000 - 2022 Timeline of Data Gathered
-* Manitoba Yields converted from tonnes to bushels
+* Manitoba Yields converted from pounds to bushels
 * Source: [Manitoba Crop Data](https://www.masc.mb.ca/masc.nsf/mmpp_browser_soil_types.html))
   
 ### Step 2: Manitoba municipalities GIS Data
