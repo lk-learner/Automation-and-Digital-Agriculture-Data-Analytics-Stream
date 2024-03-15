@@ -1,5 +1,3 @@
-# Automation-and-Digital-Agriculture-Data-Analytics
-
 # Manitoba Barley Crop Analysis
 This project is to analyse the Barley crop yields in the rural municipilities in Manitoba/Canada.
 There are 3 main files in this project.
