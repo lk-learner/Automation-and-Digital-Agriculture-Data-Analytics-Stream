@@ -1,4 +1,4 @@
-# Manitoba Barley Crop Analysis <img src="/Lakshmi Kadali Certificates/google logo.png" align="right" width="120" />
+# Manitoba Barley Crop Analysis <img src="/Data/Barley.png" align="right" width="120" />
 
 This project is to analyse the Barley crop yields in the rural municipilities in Manitoba/Canada.
 There are 3 main files in this project.
