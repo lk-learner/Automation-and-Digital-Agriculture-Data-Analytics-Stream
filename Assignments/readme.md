@@ -5,5 +5,6 @@ There are 3 main files in this project.
 2) The (Digital Agriculture Capstone Project.ipynb) file that has the jupyter notebook code.
 3) The Tableau Dashboard that can be found in the link  https://public.tableau.com/views/ManitobaRMs-BarleyYieldsAnalysis/BarleyDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
 
+---
 
 ![Palette Skills Digital Agriculture Data Analyst Certificate - Lakshmi Kadali](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics/assets/62923332/7d343533-621d-4270-b82b-40dff5dc2367)
