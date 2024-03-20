@@ -3,7 +3,7 @@
 ---
 ---
 
-
+![Palette Skills Digital Agriculture Data Analyst Certificate - Lakshmi Kadali](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics/assets/62923332/7d343533-621d-4270-b82b-40dff5dc2367)
 
 This project is to analyse the Barley crop yields in the rural municipilities in Manitoba/Canada.
 There are 3 main files in this project.
@@ -11,9 +11,6 @@ There are 3 main files in this project.
 2) The [Digital Agriculture Capstone Project.ipynb](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics/blob/main/Assignments/Digital%20Agriculture%20Capstone%20Project%20.ipynb) file that has the jupyter notebook code.
 3) The Tableau Dashboard that can be found in the link  https://public.tableau.com/views/ManitobaRMs-BarleyYieldsAnalysis/BarleyDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
 
-
-
-![Palette Skills Digital Agriculture Data Analyst Certificate - Lakshmi Kadali](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics/assets/62923332/7d343533-621d-4270-b82b-40dff5dc2367)
 
 ## Introduction
 
