@@ -1,6 +1,8 @@
 # Manitoba Barley Crop Analysis <img src="/Data/Barley.png" align="right" width="120" />
 
 ---
+![Palette Skills Digital Agriculture Data Analyst Certificate - Lakshmi Kadali](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics/assets/62923332/7d343533-621d-4270-b82b-40dff5dc2367)
+---
 This project is to analyse the Barley crop yields in the rural municipilities in Manitoba/Canada.
 There are 3 main files in this project.
 1) The  [Similar clusters of Manitoba Rms for Barley yields 2000-2022.pdf](https://github.com/lk-learner/Digital-Agriculture-Data-Analytics/blob/main/Assignments/Similar%20clusters%20of%20Manitoba%20Rms%20for%20Barley%20yields%202000-2022.pptx.pdf) file which has the final results presentation.
